@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="textColor">#F5F5F5</color>
+    <color name="background">#636360</color>
+    <color name="backtohome">#f2f22c</color>
+    <color name="unlocktxt">#000000</color>
+    <color name="Red">#ff2e17</color>
+</resources>
